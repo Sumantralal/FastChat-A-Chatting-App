@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199495943758",
+    "project_id": "fastchat-backend-c11d9",
+    "storage_bucket": "fastchat-backend-c11d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199495943758:android:f2f0aa90a9ef7c3cac651f",
+        "android_client_info": {
+          "package_name": "com.sumantralal.groupchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlw3NAAWd3xNBupOz241gSjNjuTCZE5m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
