@@ -10,9 +10,8 @@ app development lifecycle, user interface design, and backend integration with F
 
 
 <img src="https://github.com/Sumantralal/FastChat-A-Chatting-App/assets/111181638/f49809c4-3384-4459-a27b-3b46fabec0fa" alt="1" width="200" height="400">
+<img src="(https://github.com/Sumantralal/FastChat-A-Chatting-App/assets/111181638/2efb419a-de3b-45e0-b63f-dae59a3721be)" alt="2" width="200" height="400">
 
-<img src="DIRECT_IMAGE_URL_1" alt="1" width="200" height="400">
-<img src="DIRECT_IMAGE_URL_2" alt="2" width="200" height="400">
 <img src="DIRECT_IMAGE_URL_3" alt="3" width="200" height="400">
 <img src="DIRECT_IMAGE_URL_4" alt="4" width="200" height="400">
 <img src="DIRECT_IMAGE_URL_5" alt="5" width="200" height="400">
