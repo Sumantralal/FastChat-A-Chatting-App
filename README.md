@@ -8,4 +8,5 @@ app development lifecycle, user interface design, and backend integration with F
 
 ## Project Output
 
-   ![Project Flow](1.png)
+
+![1](https://github.com/Sumantralal/FastChat-A-Chatting-App/assets/111181638/f49809c4-3384-4459-a27b-3b46fabec0fa)
